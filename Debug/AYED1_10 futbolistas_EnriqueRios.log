@@ -1,0 +1,4 @@
+﻿  pruebas.c
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\pruebas.c(117,7): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\pruebas.c(119,9): warning C4013: 'strcpy' sin definir; se supone que extern devuelve como resultado int
+  AYED1_10 futbolistas_EnriqueRios.vcxproj -> D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\Debug\AYED1_10 futbolistas_EnriqueRios.exe
