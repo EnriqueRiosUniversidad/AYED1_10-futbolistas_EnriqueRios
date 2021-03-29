@@ -1,4 +1,9 @@
-﻿  pruebas.c
-D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\pruebas.c(117,7): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
-D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\pruebas.c(119,9): warning C4013: 'strcpy' sin definir; se supone que extern devuelve como resultado int
+﻿  AYED1-structs-EnriqueRios.c
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(23,1): warning C4047: 'inicializando': 'char' es distinto en los niveles de direccionamiento indirecto de 'void *'
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(58,6): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(69,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(69,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(69,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(69,10): message : este argumento se utiliza como un tamaño de búfer
+D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\AYED1-structs-EnriqueRios.c(71,10): warning C4013: 'strcpy_s' sin definir; se supone que extern devuelve como resultado int
   AYED1_10 futbolistas_EnriqueRios.vcxproj -> D:\Enrique\Documents\Tareas\Cuarto semestre\Algorismos y Data Structurs\Tarea 1 24_03_2021\AYED1_10 futbolistas_EnriqueRios\Debug\AYED1_10 futbolistas_EnriqueRios.exe
